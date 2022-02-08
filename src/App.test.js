@@ -7,6 +7,13 @@ import Display from './Components/display/Display';
 import axiosMockResult from './axiosMockResult.json';
 import mockAxios from "axios";
 
+/* I underestimated how long it would take to relearn how to use
+the react testing library and so these tests are to demonstrate
+test coverage to compensate for time spent relearning how to use
+test library features
+*/
+
+
 describe('Integration', () => {
   describe('API Call Successful', () => {
     it('API should have been called once', () => {
