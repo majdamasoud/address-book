@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  position: relative;
+  height: 100vh;
+}
+
